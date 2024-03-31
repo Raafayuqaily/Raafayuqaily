@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Raafayuqaily
-- 👀 I’m interested in Quantitative Finance
-- 🌱 I’m currently learning Python & R
+- 👀 I’m interested in Data Science & Quantitative Finance
+- 🌱 I’m currently learning Python, R, C++, & SQL
 - 📫 I can be reached via email: raafay@uchicago.edu
